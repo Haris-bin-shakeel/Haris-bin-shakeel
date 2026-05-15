@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Haris 👋
 
-<!--
-**Haris-bin-shakeel/Haris-bin-shakeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ML Engineer · Computer Vision · MLOps · Open Source**
 
-Here are some ideas to get you started:
+I build production CV pipelines, agentic AI systems, and contribute to open-source ML tooling.
+Currently contributing to [voxel51/fiftyone](https://github.com/voxel51/fiftyone).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm working on
+
+- 🔬 **Point-supervised segmentation** — 97.5% of full-supervision mIoU with 5 labeled pixels/class
+- 🤝 **OSS contributions** — [fiftyone#7540](https://github.com/voxel51/fiftyone/pull/7540) · FFmpeg kwargs passthrough
+- 🧠 **Agentic pipelines** — 7-module autonomous content system (Claude API + Whisper + FFmpeg)
+
+## Stack
+
+`PyTorch` `OpenCV` `FastAPI` `Docker` `Hugging Face` `scikit-learn` `MLOps`
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haris-shakeel-aa1186330)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=netlify&logoColor=white)](https://haris-bin-shakeel.netlify.app)
