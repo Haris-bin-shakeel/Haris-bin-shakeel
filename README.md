@@ -10,8 +10,8 @@ Currently contributing to [voxel51/fiftyone](https://github.com/voxel51/fiftyone
 ## What I'm working on
 
 - 🔬 **Point-supervised segmentation** — 97.5% of full-supervision mIoU with 5 labeled pixels/class
-- 🤝 **OSS contributions** — [fiftyone#7540](https://github.com/voxel51/fiftyone/pull/7540) · FFmpeg kwargs passthrough
-- 🧠 **Agentic pipelines** — 7-module autonomous content system (Claude API + Whisper + FFmpeg)
+* 🤝 **OSS contributions** — 2× merged @ [voxel51/fiftyone](https://github.com/voxel51/fiftyone) · [#7540](https://github.com/voxel51/fiftyone/pull/7540) FFmpeg kwargs · [#7583](https://github.com/voxel51/fiftyone/pull/7583) hex mask_targets fix (v1.16.0) · [brainrender#448](https://github.com/brainglobe/brainrender/pull/448) · [movement#982](https://github.com/neuroinformatics-unit/movement/pull/982)
+* - 🧠 **Agentic pipelines** — 7-module autonomous content system (Claude API + Whisper + FFmpeg)
 
 ## Stack
 
