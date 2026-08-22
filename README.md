@@ -19,7 +19,7 @@ haris@github ──────────────────────�
   LinkedIn     in/haris-shakeel-aa1186330
 
   Open Source ──────────────────────────────
-+ Merged PRs   6  (opencv, fiftyone, cellfinder, brainrender, movement)
++ Merged PRs   5+  (opencv, fiftyone, cellfinder, brainrender, movement)
   In review    NumPy · OpenCV · Metaflow
 ```
 
@@ -37,7 +37,7 @@ haris@github ──────────────────────�
 
 <br>
 
-### Open source :- six merged PRs across five projects
+### Open source : merged PRs across five projects
 
 | Project | Merged |
 | --- | --- |
