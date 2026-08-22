@@ -1,14 +1,42 @@
 <div align="center">
 
-### ML engineer — computer vision, remote sensing, MLOps
+```
+$ whoami --profile
 
-Research intern at the **DLL Lab, NUST SINES**, building ML for satellite imagery — super-resolution, point-supervised segmentation, uncertainty quantification — and production CV pipelines. CS @ FAST-NUCES, Peshawar.
+SYSTEM INFO
+────────────────────────────────────────────────────────
+  Subject        Haris Shakeel
+  Role           ML Engineer · Computer Vision · Remote Sensing · MLOps
+  Origin         Peshawar, Pakistan
+  Education      BS Computer Science — FAST-NUCES
+  Status         Research Intern @ DLL Lab, NUST SINES
+  ToolChain      VS Code · Git · Docker · Jupyter
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://haris-bin-shakeel.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haris-shakeel-aa1186330)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadharis.tech4@gmail.com)
+  Core ML        PyTorch · OpenCV · TensorFlow
+  Core Lang      Python · C++
+  Core Backend   FastAPI
+  Core Frontend  React
+  Core Infra     Docker · Git · CI/CD
+
+  Contact
+    Grid Mail        muhammadharis.tech4@gmail.com
+    Grid Portfolio   haris-bin-shakeel.netlify.app
+    Grid LinkedIn    in/haris-shakeel-aa1186330
+    Grid Github      Haris-bin-shakeel
+
+  Live Stats → see contribution graph & badges below
+────────────────────────────────────────────────────────
+```
 
 </div>
+
+<br>
+
+### Research — machine learning for Earth observation
+
+- **SAR-guided multimodal super-resolution** — role-based adapters (SAR geometry, land-cover semantics, cross-attention) injected into a frozen diffusion SR backbone via forward hooks, with a conformal-calibrated uncertainty head that flags hallucinated detail
+- **Point-supervised semantic segmentation** — LoveDA; approaching full-supervision mIoU from a handful of labeled pixels per class
+- **Multimodal satellite fusion** — multi-source Earth observation for land-cover segmentation
 
 <br>
 
@@ -27,14 +55,6 @@ Research intern at the **DLL Lab, NUST SINES**, building ML for satellite imager
 
 <br>
 
-### Research — machine learning for Earth observation
-
-- **SAR-guided multimodal super-resolution** — role-based adapters (SAR geometry, land-cover semantics, cross-attention) injected into a frozen diffusion SR backbone via forward hooks, with a conformal-calibrated uncertainty head that flags hallucinated detail
-- **Point-supervised semantic segmentation** — LoveDA; approaching full-supervision mIoU from a handful of labeled pixels per class
-- **Multimodal satellite fusion** — multi-source Earth observation for land-cover segmentation
-
-<br>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,6 +64,8 @@ Research intern at the **DLL Lab, NUST SINES**, building ML for satellite imager
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Haris-bin-shakeel&theme=radical&hide_border=true)
 
 </div>
 
