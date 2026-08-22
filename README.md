@@ -54,6 +54,6 @@ haris@github ──────────────────────�
 
 <div align="center">
 
-**Now** — Google Summer of Code proposals to sktime, OpenCV & pgmpy · open to ML engineer / CV research engineer roles → [LinkedIn](https://www.linkedin.com/in/haris-shakeel-aa1186330) · [muhammadharis.tech4@gmail.com](mailto:muhammadharis.tech4@gmail.com)
+**Now** — Google Summer of Code proposals to OpenCV & pgmpy · open to ML engineer / CV research engineer roles → [LinkedIn](https://www.linkedin.com/in/haris-shakeel-aa1186330) · [muhammadharis.tech4@gmail.com](mailto:muhammadharis.tech4@gmail.com)
 
 </div>
