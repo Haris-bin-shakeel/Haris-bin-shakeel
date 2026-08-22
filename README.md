@@ -1,36 +1,59 @@
-<div align="center">
+<table>
+<tr>
+<td width="68%" valign="top">
 
-```
-$ whoami --profile
+```bash
+haris@dll-lab:~$ whoami
+Haris Shakeel — ML engineer
+computer vision · remote sensing · MLOps
 
-SYSTEM INFO
-────────────────────────────────────────────────────────
-  Subject        Haris Shakeel
-  Role           ML Engineer · Computer Vision · Remote Sensing · MLOps
-  Origin         Peshawar, Pakistan
-  Education      BS Computer Science — FAST-NUCES
-  Status         Research Intern @ DLL Lab, NUST SINES
-  ToolChain      VS Code · Git · Docker · Jupyter
+haris@dll-lab:~$ cat affiliation.txt
+Research intern @ DLL Lab, NUST SINES
+ML for satellite imagery · CS @ FAST-NUCES Peshawar
 
-  Core ML        PyTorch · OpenCV · TensorFlow
-  Core Lang      Python · C++
-  Core Backend   FastAPI
-  Core Frontend  React
-  Core Infra     Docker · Git · CI/CD
+haris@dll-lab:~$ ls research/
+sar-guided-super-resolution/  conformal-uq/
+point-supervised-segmentation/  multimodal-fusion/
 
-  Contact
-    Grid Mail        muhammadharis.tech4@gmail.com
-    Grid Portfolio   haris-bin-shakeel.netlify.app
-    Grid LinkedIn    in/haris-shakeel-aa1186330
-    Grid Github      Haris-bin-shakeel
+haris@dll-lab:~$ git log --merged --oneline
+movement#982   brainrender#448   cellfinder#620
+fiftyone#7583  fiftyone#7540   opencv#29262
 
-  Live Stats → see contribution graph & badges below
-────────────────────────────────────────────────────────
+haris@dll-lab:~$ cat now.txt
+GSoC proposals: sktime · OpenCV · pgmpy
+open to ML engineer / CV research-engineering roles
 ```
 
-</div>
+</td>
+<td width="32%" valign="middle" align="center">
 
-<br>
+<img src="https://github.com/Haris-bin-shakeel.png" width="200" alt="Haris Shakeel"/>
+
+**Haris Shakeel**
+ML engineer · CV · remote sensing
+
+[Portfolio](https://haris-bin-shakeel.netlify.app) · [LinkedIn](https://www.linkedin.com/in/haris-shakeel-aa1186330) · [Email](mailto:muhammadharis.tech4@gmail.com)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Open source — six merged PRs across five projects
+
+| Project | Merged |
+| --- | --- |
+| [opencv/opencv](https://github.com/opencv/opencv/pull/29262) | `VolumeType` enum name clash — macOS Objective-C bindings |
+| [voxel51/fiftyone](https://github.com/voxel51/fiftyone/pull/7540) | FFmpeg passthrough via `**kwargs` in `make_frames_dataset()` |
+| [voxel51/fiftyone](https://github.com/voxel51/fiftyone/pull/7583) | Hex-string keys preserved in the `mask_targets` label-schema sanitizer |
+| [brainglobe/cellfinder](https://github.com/brainglobe/cellfinder/pull/620) | Keyword-only arguments with a deprecation wrapper |
+| [brainglobe/brainrender](https://github.com/brainglobe/brainrender/pull/448) | Video-save path fix without `os.chdir` |
+| [neuroinformatics-unit/movement](https://github.com/neuroinformatics-unit/movement/pull/982) | `compute_path_deviation` — a v0.17.0 release highlight |
+
+In review: [NumPy](https://github.com/numpy/numpy/pull/31523) · [OpenCV](https://github.com/opencv/opencv/pull/29199) · [Netflix/metaflow](https://github.com/Netflix/metaflow/pull/3240)
+
+---
 
 ### Research — machine learning for Earth observation
 
@@ -38,41 +61,8 @@ SYSTEM INFO
 - **Point-supervised semantic segmentation** — LoveDA; approaching full-supervision mIoU from a handful of labeled pixels per class
 - **Multimodal satellite fusion** — multi-source Earth observation for land-cover segmentation
 
-<br>
+---
 
-### Open source — six merged PRs across five projects
+Python · PyTorch · OpenCV · TensorFlow · FastAPI · Docker · React
 
-| Project | Merged |
-| --- | --- |
-| [![opencv](https://img.shields.io/badge/opencv%2Fopencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/opencv/opencv/pull/29262) | `VolumeType` enum name clash — macOS Objective-C bindings |
-| [![fiftyone](https://img.shields.io/badge/voxel51%2Ffiftyone-FF6D04?style=flat-square&logo=voxel51&logoColor=white)](https://github.com/voxel51/fiftyone/pull/7540) | FFmpeg passthrough via `**kwargs` in `make_frames_dataset()` |
-| [![fiftyone](https://img.shields.io/badge/voxel51%2Ffiftyone-FF6D04?style=flat-square&logo=voxel51&logoColor=white)](https://github.com/voxel51/fiftyone/pull/7583) | Hex-string keys preserved in the `mask_targets` label-schema sanitizer |
-| [![cellfinder](https://img.shields.io/badge/brainglobe%2Fcellfinder-2E8B57?style=flat-square&logo=python&logoColor=white)](https://github.com/brainglobe/cellfinder/pull/620) | Keyword-only arguments with a deprecation wrapper |
-| [![brainrender](https://img.shields.io/badge/brainglobe%2Fbrainrender-2E8B57?style=flat-square&logo=python&logoColor=white)](https://github.com/brainglobe/brainrender/pull/448) | Video-save path fix without `os.chdir` |
-| [![movement](https://img.shields.io/badge/neuroinformatics--unit%2Fmovement-4B0082?style=flat-square&logo=python&logoColor=white)](https://github.com/neuroinformatics-unit/movement/pull/982) | `compute_path_deviation` — a v0.17.0 release highlight |
-
-**In review:** [![NumPy](https://img.shields.io/badge/NumPy%20%234-013243?style=flat-square&logo=numpy&logoColor=white)](https://github.com/numpy/numpy/pull/31523) [![OpenCV](https://img.shields.io/badge/OpenCV%20%232-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://github.com/opencv/opencv/pull/29199) [![Metaflow](https://img.shields.io/badge/Metaflow-00CFFD?style=flat-square&logo=netflix&logoColor=white)](https://github.com/Netflix/metaflow/pull/3240)
-
-<br>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Haris-bin-shakeel&theme=radical&hide_border=true)
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Now** — Google Summer of Code proposals to sktime, OpenCV & pgmpy · open to ML engineer / CV research engineer roles → [LinkedIn](https://www.linkedin.com/in/haris-shakeel-aa1186330) · [muhammadharis.tech4@gmail.com](mailto:muhammadharis.tech4@gmail.com)
-
-</div>
+**Now** — GSoC proposals (sktime · OpenCV · pgmpy) · open to ML/CV research-engineering roles → [LinkedIn](https://www.linkedin.com/in/haris-shakeel-aa1186330) · [muhammadharis.tech4@gmail.com](mailto:muhammadharis.tech4@gmail.com)
