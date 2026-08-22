@@ -12,13 +12,11 @@ haris@github ──────────────────────�
   Role         ML Engineer · CV · Remote Sensing
   Status       Research Intern @ DLL Lab, NUST SINES
   Education    BS CS, FAST-NUCES
-  Stack        Python · PyTorch · OpenCV · FastAPI · React · Docker
 
   Contact ──────────────────────────────
   Email        muhammadharis.tech4@gmail.com
   Portfolio    haris-bin-shakeel.netlify.app
   LinkedIn     in/haris-shakeel-aa1186330
-  Github       Haris-bin-shakeel
 
   Open Source ──────────────────────────────
 + Merged PRs   6  (opencv, fiftyone, cellfinder, brainrender, movement)
@@ -31,7 +29,7 @@ haris@github ──────────────────────�
 
 <br>
 
-### Research — machine learning for Earth observation
+### Research : machine learning for Earth observation
 
 - **SAR-guided multimodal super-resolution** — role-based adapters (SAR geometry, land-cover semantics, cross-attention) injected into a frozen diffusion SR backbone via forward hooks, with a conformal-calibrated uncertainty head that flags hallucinated detail
 - **Point-supervised semantic segmentation** — LoveDA; approaching full-supervision mIoU from a handful of labeled pixels per class
@@ -39,7 +37,7 @@ haris@github ──────────────────────�
 
 <br>
 
-### Open source — six merged PRs across five projects
+### Open source :- six merged PRs across five projects
 
 | Project | Merged |
 | --- | --- |
